@@ -1,0 +1,25 @@
+what is Laravel ?
+
+Laravel is a framework of php. Laravel support MVC architectures. Laravel create a large scale type of website or web applications. Laravel support OOPS concepts
+Laravel  provides secured website or web application
+Laravel used database migration to create a database and table structures
+Laravel used ORM (object realtional mapping) model to create or performed CRUD operations
+Laravel is most popular framework of php i.e secured provides web applications
+Laravel used a blade templating engine to create a user | admin panel templates integrations .
+ examples : index.blade.php
+Laravel  provides  seo frinedly website.
+Laravel provides inbuild .htaccess and 404 page via exception handeling concepts.
+Laravel provides .env (environment file) there database connectivity and email configrations and api configration and its all package configrations are happend.
+Laravel is a framework of php so it is provides its own structured i.e support MVC architecture.
+Laravel provides its own MVC inbuild structured Laravel provides inbuild database connections and we create a tables structured via database migrations.Laravel provides inbuild routing i.e in web.php
+
+Advantage of Laravel 
+Laravel support MVC architectures
+Laravel provides seo friendly websites
+Laravel support blade templating engine i.e used to lload fast view on broswers
+Laravel provides authentications (inbuild register , login , session , logout)
+Laravel provides lightweight templates method
+Laravel provides unit testing methods.
+Laravel support object oriented session
+Laravel support many packages for email sending , captcha , payment method , bycrypt , encypt , validations or authentications methods or package.
+Laravel provides php artisan cli (command line interface) i.e used to install any package , or libraries or create Model, Controller and database migrations file.
